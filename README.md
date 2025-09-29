@@ -1,94 +1,121 @@
-```md
-<h1 align="center">👋 Hey there, I'm Tanuj Manikyala</h1>
-<h3 align="center">AIML Engineer | Passionate about AI, ML, and Intelligent Systems</h3>
+# 👋 Hey — I’m Tanuj Manikyala
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/trust%20me.gif"  />
+**AIML Engineer | 4th‑year B.Tech (CSE‑AI/ML)**
 
----
-
-### 🚀 About Me
-Enthusiastic and results-driven **B.Tech CSE (AI/ML)** graduate with a passion for building AI-powered solutions.  
-Proven leadership in projects and community roles, and always eager to collaborate, learn, and innovate.  
+📞 9100363859 • ✉️ [manikyalat@gmail.com](mailto:manikyalat@gmail.com) • 🔗 [https://github.com/TanujManikyala](https://github.com/TanujManikyala)
 
 ---
 
-### 🔬 Projects
-- **Artificial Olfaction** (11/2023 – 04/2024)  
-  Developed a CNN-based odor detection system with 82% accuracy using MQ gas sensors and Arduino.  
-- **Canteen Chatbot** (03/2023 – 08/2023) · [Repo](https://github.com/TanujManikyala/SnackO)  
-  Built an intelligent food-ordering chatbot using NLP, sentiment analysis, and LLMs on Telegram.  
-- **Chat With The Assistant** (07/2024 – 09/2024) · [Repo](https://github.com/TanujManikyala/Chat-with-the-Assistant)  
-  Conversational Q&A chatbot using Groq LLM + Pinecone API with RAG pipeline.  
-- **Brain Tumor Detection System** (04/2025 – 05/2025)  
-  YOLOv8x + SAM based Flask web app for brain tumor detection and segmentation (86% accuracy).  
-- **Automatic Timetable Generator** (12/2022 – 02/2023) · [Demo](https://kgr-atg.000webhostapp.com/index.html/)  
-  Machine-learning powered timetable generator using genetic algorithms (PHP + MySQL).  
-- **AI Story Generator (GRANNY)** (11/2022 – 05/2023) · [Repo](https://github.com/TanujManikyala/AI-STORY-GENERATOR)  
-  GPT-2 storytelling platform with gTTS narration and interactive “Wall of Stories”.  
+## 🚀 About Me
+
+I’m a passionate and results-driven B.Tech student specializing in AI & Machine Learning. I enjoy building end-to-end ML systems, web apps, and research prototypes — especially in computer vision and NLP. I love clean code, reproducible experiments, and designing practical solutions that solve real problems.
 
 ---
 
-### 🛠️ Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" alt="Django" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32" alt="Flask" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" />  
-</div>
+## 🔭 Current Focus
+
+* Building **brain tumor detection** pipeline (YOLOv8x + SAM + Flask UI)
+* Improving RAG-based conversational agents and semantic retrieval
+* Learning production-ready deployment for ML systems
 
 ---
 
-### 💼 Experience
-**Project Intern** – *KG Reddy College of Engineering & Technology* (11/2022 – 07/2023)  
-Worked in the Innovation Cell, contributing to AI/ML-based projects and real-world problem-solving.  
+## 🧰 Skills & Tools
+
+**Languages:** Python · C · Java · PHP · SQL
+
+**ML / AI:** Machine Learning · Deep Learning · Neural Networks · Computer Vision · NLP · RAG
+
+**Frameworks / Libraries:** PyTorch · TensorFlow · YOLO · SAM · Scikit‑learn · Hugging Face
+
+**Web / Mobile:** Flask · Django · Flutter · HTML · CSS · JavaScript
+
+**Data / DevOps:** MySQL · Git · GitHub · Linux · AWS (basics)
+
+**Other:** RPA · Data Structures & Algorithms
 
 ---
 
-### 🌍 Positions of Responsibility
-- **International Service Director** – Rotaract Club @ KGRCET (06/2022 – 05/2023)  
-  Led international service initiatives, community engagement, and collaborative projects.  
+## 💼 Experience
+
+**Project Intern — Innovation Cell, K.G. Reddy College of Engineering & Technology**
+*Nov 2022 — Jul 2023*
+Collaborated on research and product-focused projects; contributed to prototype development, data collection pipelines, and documentation.
 
 ---
 
-### 🏆 Achievements
-- 🥇 **Ideathon Winner** – Led team to 1st place among 20 teams.  
-- 🥈 **Spin a Code** – Runner-up among 150 participants.  
-- 🥉 **Hack-a-Bot RPA Challenge** – 2nd runner-up out of 157 teams.  
+## 📌 Positions of Responsibility
+
+**International Service Director — Rotaract Club, KGRCET**
+*Jun 2022 — May 2023*
+Led international outreach projects and coordinated multi‑team initiatives.
 
 ---
 
-### 🎓 Certifications
-- Career Essentials in Generative AI – *Microsoft & LinkedIn*  
-- Introduction to AI – *Microsoft*  
-- Generative AI with AWS – *AWS*  
-- Machine Learning Foundations – *AWS Educate*  
+## 🏆 Achievements
+
+* **Ideathon Winner** — 1st among 20 teams
+* **Spin a Code** — Runner-up among 150 participants
+* **Hack‑a‑Bot (RPA)** — 2nd runner‑up out of 157 teams
 
 ---
 
-### 📫 Connect with Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/manikyala-tanuj-64ba42204/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:manikyalat@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/Tanzu_14/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Tanz000" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
+## 🛠 Selected Projects
+
+### Artificial Olfaction  *(Nov 2023 — Apr 2024)*
+
+* CNN‑based odor classification using MQT gas sensors + Arduino. Achieved ~82% accuracy through feature engineering and sensor-array optimization.
+
+### Canteen Chatbot — [SnackO](https://github.com/TanujManikyala/SnackO) *(Mar 2023 — Aug 2023)*
+
+* Telegram chatbot for food ordering using NLP, sentiment analysis and LLM‑powered responses. Integrated order processing and dynamic menus.
+
+### Chat With The Assistant — [Repo](https://github.com/TanujManikyala/Chat-with-the-Assistant) *(Jul 2024 — Sep 2024)*
+
+* Conversational Q&A system using a high‑performance vector DB and RAG for context‑aware answers. Engineered the retrieval and generation pipeline.
+
+### Brain Tumor Detection System *(Apr 2025 — May 2025)*
+
+* YOLOv8x detection + SAM segmentation, Flask web app with mask overlays and bounding boxes. End‑to‑end image processing pipeline with 86% accuracy in experimental setup.
+
+### Automatic Timetable Generator — [Live Demo](https://kgr-atg.000webhostapp.com/index.html/) *(Dec 2022 — Feb 2023)*
+
+* Genetic algorithm based scheduler with PHP + MySQL backend to resolve conflicts and minimize idle times.
+
+### AI‑STORY‑GENERATOR — [Repo](https://github.com/TanujManikyala/AI-STORY-GENERATOR) *(Nov 2022 — May 2023)*
+
+* GPT‑2 powered storytelling platform, gTTS narration, collaborative features and downloadable audio outputs.
 
 ---
-⭐️ From [TanujManikyala](https://github.com/TanujManikyala)
-```
+
+## 🎓 Courses & Certifications
+
+* Career Essentials in Generative AI — Microsoft & LinkedIn
+* Introduction to Artificial Intelligence
+* Introduction to Generative AI with AWS
+* Machine Learning Foundations — AWS Educate
+
+---
+
+## 📫 Get in touch
+
+* LinkedIn: [https://www.linkedin.com/in/manikyala-tanuj-64ba42204/](https://www.linkedin.com/in/manikyala-tanuj-64ba42204/)
+* Email: [manikyalat@gmail.com](mailto:manikyalat@gmail.com)
+* GitHub: [https://github.com/TanujManikyala](https://github.com/TanujManikyala)
+
+---
+
+## ⚡ Fun & Extras
+
+* Linux enthusiast • Always exploring new open‑source tools
+* Interested in RPA and building practical automation for repetitive tasks
+
+---
+
+*If you’d like, I can:*
+
+1. Convert this into a polished `README.md` with badges, skill icons and GitHub stats images.
+2. Format a version optimized for the GitHub profile README (compact and visual).
+3. Provide the exact `git` commands to update your `TanujManikyala/TanujManikyala` repo and push the new README.
+
+Tell me which option you want and I’ll prepare it right here.
