@@ -35,7 +35,7 @@ I’m a passionate and results-driven B.Tech student specializing in AI & Machin
 
 ## 📌 Projects
 
-* [**Brain Tumor Detection**] — YOLOv8x + SAM with Flask UI, real-time segmentation and detection.
+* **Brain Tumor Detection** — YOLOv8x + SAM with Flask UI, real-time segmentation and detection.
 * [**Chat With The Assistant**](https://github.com/TanujManikyala/Chat-with-the-Assistant) — RAG-powered Q&A chatbot with Pinecone vector DB.
 * [**SnackO Canteen Chatbot**](https://github.com/TanujManikyala/SnackO) — Telegram chatbot with NLP and sentiment detection.
 * [**Automatic Timetable Generator**](https://kgr-atg.000webhostapp.com/index.html/) — PHP + MySQL powered scheduler using genetic algorithms.
