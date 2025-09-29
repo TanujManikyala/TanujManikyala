@@ -1,6 +1,6 @@
 # 👋 Hey — I’m Tanuj Manikyala
 
-**AIML Engineer | 4th‑year B.Tech (CSE‑AI/ML)**
+**AIML Engineer | B.Tech (CSE‑AI/ML)**
 
 📞 9100363859 • ✉️ [manikyalat@gmail.com](mailto:manikyalat@gmail.com) • 🔗 [https://github.com/TanujManikyala](https://github.com/TanujManikyala)
 
