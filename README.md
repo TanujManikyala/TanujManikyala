@@ -112,10 +112,3 @@ Led international outreach projects and coordinated multi‑team initiatives.
 
 ---
 
-*If you’d like, I can:*
-
-1. Convert this into a polished `README.md` with badges, skill icons and GitHub stats images.
-2. Format a version optimized for the GitHub profile README (compact and visual).
-3. Provide the exact `git` commands to update your `TanujManikyala/TanujManikyala` repo and push the new README.
-
-Tell me which option you want and I’ll prepare it right here.
